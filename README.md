@@ -55,7 +55,7 @@ Durante o desenvolvimento, pratiquei e aprimorei:
 
 ## 🎬 Link de Acesso
 
-- [Acessar Demo](https://lucas-henriquedias.github.io/meu-portfolio/)
+- [Acessar Demo](https://lucas-henriquedias.github.io/streaming-ui-clone/)
 
 ---
 
